@@ -4,10 +4,6 @@
 
 A Certificate Generator built using React, TypeScript, Tailwind CSS, and React-PDF. It was created for fun and as a learning exercise. The application allows users to generate internship certificates easily.
 
-## 🚀 Live Preview
-
-You can view a live preview of the project [here](https://certificate-generator-live.netlify.app/).
-
 ## 💻 Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,11 +36,3 @@ To get started with the project, follow these steps:
     ```bash
     http://localhost:5173
     ```
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 📝 Note
-
-This project was built for fun and learning purposes.
